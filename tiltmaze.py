@@ -3,7 +3,6 @@ from collections import deque
 """
 given a graph
 output minimum number of moves to get to the output
-always start at top left
 goal could be anywhere
 """
 
