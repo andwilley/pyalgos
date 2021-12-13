@@ -31,13 +31,6 @@ layout = [
     [0, 0, 2, 0, 1],
 ]
 
-# create a adjacency matrix
-# adjacent nodes are a "slide" apart
-# for every node
-# try left right up down and go as far as you can in that direction.
-# check for goal at destination and check for goal along the way
-# BFS
-
 moves = [
     (-1, 0), # up
     (1, 0), # down
